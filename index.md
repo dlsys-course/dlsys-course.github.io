@@ -11,8 +11,10 @@ Over the past few years, deep learning has become an important technique to succ
 
 This course is designed to fill this gap.  We will be covering various aspects of deep learning systems, including: basics of deep learning, programming models for expressing machine learning models, automatic differentiation, memory optimization, scheduling, distributed learning, hardware acceleration, domain specific languages, and model serving. Many of these topics intersect with existing research directions in databases, systems and networking, architecture and programming languages. The goal is to offer a comprehensive picture on how deep learning systems works, discuss and execute on possible research opportunities, and build open-source software that will have broad appeal.
 
-We will have two classes per week. Each week will have one lecture and another lab/discussion session.
-Each lecture will study a specific aspect of deep learning systems. The lab/discussion session will contain tutorials to implement that specific aspect
+We will have two classes per week. Each week will have one lecture.
+Another class will either be lab/discuss session or guest lectures.
+Each lecture will study a specific aspect of deep learning systems.
+The lab/discussion session will contain tutorials to implement that specific aspect
 and will include case studies of existing systems, such as Tensorflow, Caffe, Mxnet, PyTorch, and others.
 
 ## Instructors
@@ -30,7 +32,7 @@ and will include case studies of existing systems, such as Tensorflow, Caffe, Mx
 
 ## Homeworks and Grading
 
-We will have two assignments and one final project.
+We will have assignments and a final project.
 
 - Course project: 60%
 - Homeworks: 30%
