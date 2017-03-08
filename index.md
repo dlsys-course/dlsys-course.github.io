@@ -37,4 +37,4 @@ We will have two assignments and one final project.
 - Discussion participation: 10%
 
 ## Acknowledgement
-This course is created with help from DLsys seminar group in University of Washington.
+This course is created with help from DLsys seminar group at University of Washington.
