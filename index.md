@@ -1,11 +1,11 @@
 ---
 layout: index
-title: "CS599"
+title: "CSE 599"
 description: "DLSys Course UW"
 ---
 {% include JB/setup %}
 
-# Course Information
+## Course Information
 
 Over the past few years, deep learning has become an important technique to successfully solve problems in many different fields, such as vision, NLP, robotics. An important ingredient that is driving this success is the development of deep learning systems that efficiently support the task of learning and inference of complicated models using many devices and possibly using distributed resources. The study of how to build and optimize these deep learning systems is now an active area of research and commercialization, and yet there isn’t a course that covers this topic.
 
@@ -25,7 +25,7 @@ and will include case studies of existing systems, such as Tensorflow, Caffe, Mx
 - Proficiency in Python, familar in C/C++
   - We will mainly be using python for case study the existing systems,
     and C/C++ for some of the background hacking.
-- A Machine Learning course, CSE546
+- A Machine Learning course (e.g CSE 546)
 - Prior knowledge in system (operation system/database) is useful but not required.
 
 ## Homeworks and Grading
@@ -35,3 +35,6 @@ We will have two assignments and one final project.
 - Course project: 60%
 - Homeworks: 30%
 - Discussion participation: 10%
+
+## Acknowledgement
+This course is created with help from DLsys seminar group in University of Washington.
