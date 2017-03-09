@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "CSE 599"
+title: "CSE 599G1"
 description: "DLSys Course UW"
 ---
 {% include JB/setup %}
@@ -22,6 +22,9 @@ and will include case studies of existing systems, such as Tensorflow, Caffe, Mx
 - [Haichen Shen](http://homes.cs.washington.edu/~haichen/)
 - [Arvind Krishnamurthy](http://www.cs.washington.edu/people/faculty/arvind)
 
+## Room and Time
+- Time: Tuesday/Thursday 1:00pm to 2:20pm.
+- The current room schedule is tentative, we will update it when the quarter begins.
 
 ## Prerequisites
 - Proficiency in Python, familar in C/C++

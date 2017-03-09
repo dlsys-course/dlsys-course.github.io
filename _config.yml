@@ -10,10 +10,10 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title :  "CSE 599: Deep Learning System"
+title :  "CSE 599G1: Deep Learning System"
 tagline:
 author :
-  name : cse599
+  name : cse599g1
 
 
 
