@@ -31,7 +31,7 @@ and will include case studies of existing systems, such as Tensorflow, Caffe, Mx
   - We will mainly be using python for case study the existing systems,
     and C/C++ for some of the background hacking.
 - Basic knowledge of machine learning (e.g CSE 546)
-- Prior knowledge in system (operation system/database) is useful but not required.
+- Prior knowledge in system (operating system/database) is useful but not required.
 
 ## Homeworks and Grading
 
