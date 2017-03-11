@@ -16,8 +16,8 @@ We will have guest lectures and may accomodate the schedule accordingly.
 | Mar 30th                 |   Lab: How to build image classifier                  |
 | April 4th                |   Components of  Deep Learning System                 |
 | April 6th                |   Lab: case study of existing systems                 |
-| April 11th               |   Backprop and Automatic Differentiation              |
-| April 13th               |   Lab: Build your own autograd tools, assignment 1    |
+| April 11th               |   Backprop and Automatic Differentiation, assignment 1 |
+| April 13th               |   Guest Lecture by Soumith Chintala(Torch)  |
 | April 18th               |   Memory Optimization and Planning                    |
 | April 20th               |   TBD(guest lecture/lab)                              |
 | April 25th               |   GPU Acceleration                                    |
@@ -29,7 +29,7 @@ We will have guest lectures and may accomodate the schedule accordingly.
 | May 16th                 |   Model Serving Systems                                     |
 | May 18th                 |   TBD                                                       |
 | May 23th                 |   Domain specific languages and Intermediate representation |
-| May 25th                 |   Guest Lecture by Yangqing Jia                        |
+| May 25th                 |   Guest Lecture by Yangqing Jia(Caffe)                       |
 | May 30th                 |   Advanced topics                                           |
 | June 1st                 |   TBD                                                       |
 | June 4th                 |   Final Project Presentation                                |
