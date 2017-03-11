@@ -29,7 +29,7 @@ We will have guest lectures and may accomodate the schedule accordingly.
 | May 16th                 |   Model Serving Systems                                     |
 | May 18th                 |   TBD                                                       |
 | May 23th                 |   Domain specific languages and Intermediate representation |
-| May 25th                 |   TBD                                                       |
+| May 25th                 |   Guest Lecture by Yangqing Jia                        |
 | May 30th                 |   Advanced topics                                           |
 | June 1st                 |   TBD                                                       |
 | June 4th                 |   Final Project Presentation                                |
