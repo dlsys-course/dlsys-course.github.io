@@ -17,7 +17,7 @@ We will have guest lectures and may accomodate the schedule accordingly.
 | April 4th                |   Components of  Deep Learning System                 |
 | April 6th                |   Lab: case study of existing systems                 |
 | April 11th               |   Backprop and Automatic Differentiation, assignment 1 |
-| April 13th               |   Guest Lecture by Soumith Chintala(Torch)  |
+| April 13th               |   Guest Lecture by Soumith Chintala (Torch/PyTorch)  |
 | April 18th               |   Memory Optimization and Planning                    |
 | April 20th               |   TBD(guest lecture/lab)                              |
 | April 25th               |   GPU Acceleration                                    |
@@ -29,7 +29,7 @@ We will have guest lectures and may accomodate the schedule accordingly.
 | May 16th                 |   Model Serving Systems                                     |
 | May 18th                 |   TBD                                                       |
 | May 23th                 |   Domain specific languages and Intermediate representation |
-| May 25th                 |   Guest Lecture by Yangqing Jia(Caffe)                       |
+| May 25th                 |   Guest Lecture by Yangqing Jia (Caffe/Caffe2)              |
 | May 30th                 |   Advanced topics                                           |
 | June 1st                 |   TBD                                                       |
 | June 4th                 |   Final Project Presentation                                |
