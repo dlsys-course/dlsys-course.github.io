@@ -31,9 +31,9 @@ happen on Wed/Friday instead (see the schedule for details).
 | May 9th                  |   Parallel Job Scheduling  and Distributed Training   |
 | May 11th                 |   TBD                                                       |
 | May 16th                 |   Model Serving Systems                                     |
-| May 18th                 |   TBD                                                       |
+| May 18th                 |   Guest lecture, Nvidia(tentative)                          |
 | May 23th                 |   Domain specific languages and Intermediate representation |
-| May 25th                 |   Guest Lecture by Yangqing Jia (Caffe/Caffe2)              |
+| May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2)              |
 | May 30th                 |   Advanced topics                                           |
 | June 1st                 |   TBD                                                       |
 | June 4th                 |   Final Project Presentation                                |
