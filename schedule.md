@@ -10,6 +10,10 @@ description: ""
 The schedule is tentative and can subject to change.
 We will have guest lectures and may accomodate the schedule accordingly.
 
+The normal course hour is Thuesday/Thursday. We will have two joint course session
+with CSE548 (Computer architecture) on ASICs and FPGA. These two courses will
+happen on Wed/Friday instead (see the schedule for details).
+
 | Date                     |                                                       |
 |--------------------------| ------------------------------------------------------|
 | Mar 28th                 |   Introduction to Deep Learning                       |
@@ -22,8 +26,8 @@ We will have guest lectures and may accomodate the schedule accordingly.
 | April 20th               |   TBD(guest lecture/lab)                              |
 | April 25th               |   GPU Acceleration                                    |
 | April 27th               |   TBD(guest lecture/lab)                              |
-| May 2nd                  |   ASICs, FPGA Acceleration                            |
-| May 4th                  |   Lab: Programming GPU/FPGA, assignment 2             |
+| May 3nd (joint with CSE548) |   ASICs, FPGA Acceleration                         |
+| May 5th (joint with CSE548) |   Guest Lecture(FPGA on data centers)              |
 | May 9th                  |   Parallel Job Scheduling  and Distributed Training   |
 | May 11th                 |   TBD                                                       |
 | May 16th                 |   Model Serving Systems                                     |
