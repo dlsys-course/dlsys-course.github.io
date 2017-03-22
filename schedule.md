@@ -26,7 +26,7 @@ happen on Wed/Friday instead (see the schedule for details).
 | April 20th               |   TBD(guest lecture/lab)                              |
 | April 25th               |   GPU Acceleration                                    |
 | April 27th               |   TBD(guest lecture/lab)                              |
-| May 3nd (joint with CSE548) |   ASICs, FPGA Acceleration                         |
+| May 3rd (joint with CSE548) |   ASICs, FPGA Acceleration                         |
 | May 5th (joint with CSE548) |   Guest Lecture(FPGA on data centers)              |
 | May 9th                  |   Parallel Job Scheduling  and Distributed Training   |
 | May 11th                 |   TBD                                                       |
