@@ -26,8 +26,8 @@ happen on Wed/Friday instead (see the schedule for details).
 | April 20th               |   TBD(guest lecture/lab)                              |
 | April 25th               |   GPU Acceleration                                    |
 | April 27th               |   TBD(guest lecture/lab)                              |
-| May 3rd (joint with CSE548) |   ASICs, FPGA Acceleration                         |
-| May 5th (joint with CSE548) |   Guest Lecture(FPGA on data centers)              |
+| May 3rd (**Wed**, joint with CSE548) |   ASICs, FPGA Acceleration                         |
+| May 5th (**Fri**, joint with CSE548) |   Guest Lecture(FPGA on data centers)              |
 | May 9th                  |   Parallel Job Scheduling  and Distributed Training   |
 | May 11th                 |   TBD                                                       |
 | May 16th                 |   Model Serving Systems                                     |
@@ -36,4 +36,4 @@ happen on Wed/Friday instead (see the schedule for details).
 | May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2)              |
 | May 30th                 |   Advanced topics                                           |
 | June 1st                 |   TBD                                                       |
-| June 4th                 |   Final Project Presentation                                |
+| June 6th                 |   Final Project Presentation                                |
