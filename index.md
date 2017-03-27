@@ -22,11 +22,11 @@ and will include case studies of existing systems, such as Tensorflow, Caffe, Mx
 - [Haichen Shen](http://homes.cs.washington.edu/~haichen/)
 - [Arvind Krishnamurthy](http://www.cs.washington.edu/people/faculty/arvind)
 
-## Room and Time
+## Logistics
 - Time: Tuesday/Thursday 1:00pm to 2:20pm.
   - There are two joint lecture with CSE548 happens on Wed/Friday, checkout the schedule for details
 - Place: MGH 254
-- Catalyst: https://catalyst.uw.edu/gopost/board/arvindk/43934/
+- Links: [Catalyst discussion board](https://catalyst.uw.edu/gopost/board/arvindk/43934/)
 
 ## Prerequisites
 - Proficiency in Python, familar in C/C++
