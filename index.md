@@ -22,6 +22,9 @@ and will include case studies of existing systems, such as Tensorflow, Caffe, Mx
 - [Haichen Shen](http://homes.cs.washington.edu/~haichen/)
 - [Arvind Krishnamurthy](http://www.cs.washington.edu/people/faculty/arvind)
 
+## Teaching Assistant
+- [Qiao Zhang](http://homes.cs.washington.edu/~qiao/)
+
 ## Logistics
 - Time: Tuesday/Thursday 1:00pm to 2:20pm.
   - There are two joint lecture with CSE548 happens on Wed/Friday, checkout the schedule for details
