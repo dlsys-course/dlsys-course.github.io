@@ -28,8 +28,8 @@ happen on Wed/Friday instead (see the schedule for details).
 | April 27th               |   TBD,  ***Project proposal due***    |
 | May 3rd (**Wed**, joint with CSE548) |   ASICs, FPGA Acceleration               |
 | May 5th (**Fri**, joint with CSE548) |   Guest Lecture(FPGA on data centers)     |
-| May 9th                  |   GPU Acceleration                                    |
-| May 11th                 |   TBD, ***assignment 2 due***                               |
+| May 9th                  |   GPU Acceleration***assignment 2 due***            |
+| May 11th                 |   TBD|
 | May 16th                 |   Model Serving Systems                                     |
 | May 18th                 |   Guest lecture, Nvidia(tentative)                          |
 | May 23th                 |   Domain specific languages and Intermediate representation |
