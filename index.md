@@ -24,7 +24,9 @@ and will include case studies of existing systems, such as Tensorflow, Caffe, Mx
 
 ## Room and Time
 - Time: Tuesday/Thursday 1:00pm to 2:20pm.
-- The current room schedule is tentative, we will update it when the quarter begins.
+  - There are two joint lecture with CSE548 happens on Wed/Friday, checkout the schedule for details
+- Place: MGH 254
+- Catalyst: https://catalyst.uw.edu/gopost/board/arvindk/43934/
 
 ## Prerequisites
 - Proficiency in Python, familar in C/C++
