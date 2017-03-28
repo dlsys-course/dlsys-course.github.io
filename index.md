@@ -29,7 +29,7 @@ and will include case studies of existing systems, such as Tensorflow, Caffe, Mx
 - Time: Tuesday/Thursday 1:00pm to 2:20pm.
   - There are two joint lecture with CSE548 happens on Wed/Friday, checkout the schedule for details
 - Place: MGH 254
-- Slack: Join https://uw-cse.slack.com dlsys channel for course discussions and announcements
+- ***Slack***: Join [https://uw-cse.slack.com](https://uw-cse.slack.com) dlsys channel for course discussions and announcements
 
 ## Prerequisites
 - Proficiency in Python, familar in C/C++
