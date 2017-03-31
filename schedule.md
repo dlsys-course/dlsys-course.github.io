@@ -16,7 +16,7 @@ happen on Wed/Friday instead (see the schedule for details).
 
 | Date                     |                                                       |
 |--------------------------| ------------------------------------------------------|
-| Mar 28th                 |   Introduction to Deep Learning [slide for lecture 1](pdf/lecture1.pdf) |
+| Mar 28th                 |   Introduction to Deep Learning [slides for lecture 1](pdf/lecture1.pdf) |
 | Mar 30th                 |   Lab: How to build image classifier [lab1 material](https://github.com/dlsys-course/lab1) |
 | April 4th                |   Components of  Deep Learning System                 |
 | April 6th                |   Backprop and Automatic Differentiation, ***assignment 1 out*** |
