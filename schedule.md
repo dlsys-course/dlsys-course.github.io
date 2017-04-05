@@ -16,9 +16,9 @@ happen on Wed/Friday instead (see the schedule for details).
 
 | Date                     |                                                       |
 |--------------------------| ------------------------------------------------------|
-| Mar 28th                 |   Introduction to Deep Learning [slides for lecture 1](pdf/lecture1.pdf) |
+| Mar 28th                 |   Introduction to Deep Learning [slides for lecture 1](pdf/lecture1.pdf) [slides for RNN](pdf/lecture1-p2-rnn.pdf) |
 | Mar 30th                 |   Lab: How to build image classifier [lab1 material](https://github.com/dlsys-course/lab1) |
-| April 4th                |   Components of  Deep Learning System                 |
+| April 4th                |   Components Overview of  Deep Learning System  [slides for lecture3](pdf/lecture3.pdf) |
 | April 6th                |   Backprop and Automatic Differentiation, ***assignment 1 out*** |
 | April 11th               |   Lab: case study of existing systems                 |
 | April 13th               |   Guest Lecture by Soumith Chintala (Torch/PyTorch), ***room: CSE 305***  |
