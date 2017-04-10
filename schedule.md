@@ -16,24 +16,24 @@ happen on Wed/Friday instead (see the schedule for details).
 
 | Date                     |                                                       |
 |--------------------------| ------------------------------------------------------|
-| Mar 28th                 |   Introduction to Deep Learning [slide for lecture 1](pdf/lecture1.pdf) |
-| Mar 30th                 |   Lab: How to build image classifier                  |
-| April 4th                |   Components of  Deep Learning System                 |
-| April 6th                |   Backprop and Automatic Differentiation, ***assignment 1 out*** |
-| April 11th               |   Discussion Session, more case studies, ***starts at 1:30pm***                 |
-| April 13th               |   Guest Lecture by Soumith Chintala (Torch/PyTorch)   |
+| Mar 28th                 |   Introduction to Deep Learning [slides for lecture 1](pdf/lecture1.pdf) [slides for RNN](pdf/lecture1-p2-rnn.pdf) |
+| Mar 30th                 |   Lab: How to build image classifier [lab1 material](https://github.com/dlsys-course/lab1) |
+| April 4th                |   Components Overview of  Deep Learning System  [slides for lecture3](pdf/lecture3.pdf) |
+| April 6th                |   Backprop and Automatic Differentiation, ***assignment 1 out*** [slides for lecture4](pdf/lecture4.pdf) |
+| April 11th               |  Discussion Session, more case studies, ***starts at 1:30pm***                 |
+| April 13th               |   Guest Lecture by Soumith Chintala (Torch/PyTorch), ***room: CSE 305***  |
 | April 18th               |   Memory Optimization and Planning                    |
 | April 20th               |   Lab, ***assignment 1 due***                    |
 | April 25th               |   Parallel Job Scheduling  and Distributed Training, ***assignment 2 out***   |
 | April 27th               |   TBD,  ***Project proposal due***    |
 | May 3rd (**Wed**, joint with CSE548) |   ASICs, FPGA Acceleration               |
 | May 5th (**Fri**, joint with CSE548) |   Guest Lecture(FPGA on data centers)     |
-| May 9th                  |   GPU Acceleration***assignment 2 due***            |
+| May 9th                  |   GPU Acceleration, ***assignment 2 due***            |
 | May 11th                 |   TBD  |
 | May 16th                 |   Model Serving Systems                                     |
-| May 18th                 |   Guest lecture, Nvidia(tentative)                          |
+| May 18th                 |   Guest lecture, Nvidia(tentative),  ***room: CSE 305***  |
 | May 23th                 |   Domain specific languages and Intermediate representation |
-| May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2)              |
+| May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2), ***room: CSE 305***   |
 | May 30th                 |   Advanced topics                                           |
 | June 1st                 |   TBD                                                       |
 | June 7th                 |   Final Project Presentation                                |

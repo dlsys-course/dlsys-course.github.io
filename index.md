@@ -27,8 +27,9 @@ and will include case studies of existing systems, such as Tensorflow, Caffe, Mx
 
 ## Logistics
 - Time: Tuesday/Thursday 1:00pm to 2:20pm.
-  - There are two joint lecture with CSE548 happens on Wed/Friday, checkout the schedule for details
-- Place: MGH 254
+  - There are two joint lecture with CSE548 happens on Wed/Friday, checkout the  [schedule](schedule)  for details
+- Place: Normal lectures and labs happens at MGH 254
+  - We will be using CSE 305 for some of the guest lectures, checkout the [schedule](schedule) for details
 - ***Slack***: Join [https://uw-cse.slack.com](https://uw-cse.slack.com) dlsys channel for course discussions and announcements
 
 ## Prerequisites

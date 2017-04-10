@@ -8,4 +8,4 @@ description: ""
 {% include JB/setup %}
 
 
-Page for assignments.
+[Assignment 1 on GitHub](https://github.com/dlsys-course/assignment1) (Due 4/20/2017, 5pm.)
