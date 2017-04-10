@@ -20,7 +20,7 @@ happen on Wed/Friday instead (see the schedule for details).
 | Mar 30th                 |   Lab: How to build image classifier                  |
 | April 4th                |   Components of  Deep Learning System                 |
 | April 6th                |   Backprop and Automatic Differentiation, ***assignment 1 out*** |
-| April 11th               |   Lab: case study of existing systems                 |
+| April 11th               |   Discussion Session, more case studies, ***starts at 1:30pm***                 |
 | April 13th               |   Guest Lecture by Soumith Chintala (Torch/PyTorch)   |
 | April 18th               |   Memory Optimization and Planning                    |
 | April 20th               |   Lab, ***assignment 1 due***                    |
