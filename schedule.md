@@ -20,7 +20,7 @@ happen on Wed/Friday instead (see the schedule for details).
 | Mar 30th                 |   Lab: How to build image classifier [lab1 material](https://github.com/dlsys-course/lab1) |
 | April 4th                |   Components Overview of  Deep Learning System  [slides for lecture3](pdf/lecture3.pdf) |
 | April 6th                |   Backprop and Automatic Differentiation, ***assignment 1 out*** [slides for lecture4](pdf/lecture4.pdf) |
-| April 11th               |  Discussion Session, more case studies, ***starts at 1:30pm***                 |
+| April 11th               |   Guest Lecture by Alex Smola [slide](pdf/alex_smola_guest_lecture.pdf) |
 | April 13th               |   Guest Lecture by Soumith Chintala (Torch/PyTorch), ***room: CSE 305***  |
 | April 18th               |   Memory Optimization and Planning                    |
 | April 20th               |   Lab, ***assignment 1 due***                    |
