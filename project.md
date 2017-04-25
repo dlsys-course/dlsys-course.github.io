@@ -23,5 +23,5 @@ Propose your project idea, or join an existing project team if that project inte
 |  Event               |    Date    |
 |----------------------|------------|
 | Project pitch (3 minutes per team) | April 20th |
-| Project proposal due (2 pages) | April 27th |
+| Project proposal due (2 pages) [dropbox](https://catalyst.uw.edu/collectit/assignment/arvindk/40126/159876) | April 27th |
 | Final project presentation and report | June 7th |
