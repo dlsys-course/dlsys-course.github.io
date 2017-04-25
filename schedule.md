@@ -25,10 +25,10 @@ happen on Wed/Friday instead (see the schedule for details).
 | April 18th               |   Memory Optimization and Planning [slides for lecture7](pdf/lecture7.pdf) |
 | April 20th               |   Project Proposal Pitch, ***assignment 1 due***  |
 | April 25th               |   GPU Acceleration, ***assignment 2 out*** [slides](pdf/lecture8.pdf) |
-| April 27th               |   TBD,  ***Project proposal due***    |
+| April 27th               |   Parallel Scheduling and Distributed Learning,  ***Project proposal due***|
 | May 3rd (**Wed**, joint with CSE548) |   ASICs, FPGA Acceleration               |
 | May 5th (**Fri**, joint with CSE548) |   Guest Lecture(FPGA on data centers)     |
-| May 9th                  |   Parallel Scheduling and Distributed Learning, ***assignment 2 due***            |
+| May 9th                  |  TBD, ***assignment 2 due***            |
 | May 11th                 |   TBD  |
 | May 16th                 |   Model Serving Systems                                     |
 | May 18th                 |   Guest lecture, Nvidia(tentative),  ***room: CSE 305***  |
