@@ -25,13 +25,13 @@ happen on Wed/Friday instead (see the schedule for details).
 | April 18th               |   Memory Optimization and Planning [slides for lecture7](pdf/lecture7.pdf) |
 | April 20th               |   Project Proposal Pitch, ***assignment 1 due***  |
 | April 25th               |   GPU Acceleration, ***assignment 2 out*** [slides](pdf/lecture8.pdf) |
-| April 27th               |   Parallel Scheduling and Distributed Learning,  ***Project proposal due***|
+| April 27th               |   Parallel Scheduling  ***Project proposal due*** [slides](pdf/lecture9.pdf)|
 | May 3rd (**Wed**, joint with CSE548) |   ASICs, FPGA Acceleration ***room: CSE 305***  |
 | May 5th (**Fri**, joint with CSE548) |   FPGA on datacenters ***room: CSE 691 Gate Commons***  |
 | May 9th                  |  TBD, ***assignment 2 due***            |
 | May 11th                 |   TBD  |
 | May 16th                 |   Model Serving Systems                                     |
-| May 18th                 |   Guest lecture, Nvidia(tentative),  ***room: CSE 305***  |
+| May 18th                 |   Guest lecture, Sharan Chetlur (cuDNN),  ***room: CSE 305***  |
 | May 23th                 |   Domain specific languages and Intermediate representation |
 | May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2), ***room: CSE 305***   |
 | May 30th                 |   Advanced topics                                           |
