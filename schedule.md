@@ -28,7 +28,9 @@ happen on Wed/Friday instead (see the schedule for details).
 | April 27th               |   Parallel Scheduling  ***Project proposal due*** [slides](pdf/lecture9.pdf)|
 | May 3rd (**Wed**, joint with CSE548) |   ASICs, FPGA Acceleration               |
 | May 5th (**Fri**, joint with CSE548) |   Guest Lecture(FPGA on data centers)     |
-| May 9th                  |  Domain specific languages and Intermediate representation ***assignment 2 due***            |
+| May 3rd (**Wed, 9:30-11:00am, room: CSE305**, joint with CSE548) |   ASICs, FPGA Acceleration |
+| May 5th (**Fri, 9:30-11:00am, room: CSE691 Gates Commons**, joint with CSE548) |   FPGA on datacenters  |
+| May 9th                  |  Domain specific languages and Intermediate representation ***assignment 2 due***     |
 | May 11th                 |   TBD  |
 | May 16th                 |   Model Serving Systems                                     |
 | May 18th                 |   Guest lecture, Sharan Chetlur (cuDNN),  ***room: CSE 305***  |
