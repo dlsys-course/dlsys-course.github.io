@@ -27,7 +27,7 @@ happen on Wed/Friday instead (see the schedule for details).
 | April 25th               |   GPU Acceleration, ***assignment 2 out*** [slides](pdf/lecture8.pdf) |
 | April 27th               |   Parallel Scheduling  ***Project proposal due*** [slides](pdf/lecture9.pdf)|
 | May 3rd (**Wed, 9:30-11:00am, room: CSE305**, joint with CSE548) |   ASICs, FPGA Acceleration |
-| May 5th (**Fri, 9:30-11:00am, room: CSE691 Gates Commons**, joint with CSE548) |   FPGA on datacenters  |
+| May 5th (**Fri, 9:30-11:00am, room: CSE691**, joint with CSE548) |   FPGA on datacenters  |
 | May 9th                  | Distributed Training and Communication Primitives ***assignment 2 due*** |
 | May 11th                 |  TBD|
 | May 16th                 |   Model Serving Systems   |
