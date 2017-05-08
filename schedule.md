@@ -21,21 +21,19 @@ happen on Wed/Friday instead (see the schedule for details).
 | April 4th                |   Components Overview of  Deep Learning System  [slides for lecture3](pdf/lecture3.pdf) |
 | April 6th                |   Backprop and Automatic Differentiation, ***assignment 1 out*** [slides for lecture4](pdf/lecture4.pdf) |
 | April 11th               |   Guest Lecture by Alex Smola [slide](pdf/alex_smola_guest_lecture.pdf) |
-| April 13th               |   Guest Lecture by Soumith Chintala (Torch/PyTorch), [slide](pdf/soumith_guest_lecture.pdf)  |
+| April 13th               |   Guest Lecture by Soumith Chintala (Torch/PyTorch), [slide](pdf/soumith_guest_lecture.pdf)|
 | April 18th               |   Memory Optimization and Planning [slides for lecture7](pdf/lecture7.pdf) |
 | April 20th               |   Project Proposal Pitch, ***assignment 1 due***  |
 | April 25th               |   GPU Acceleration, ***assignment 2 out*** [slides](pdf/lecture8.pdf) |
 | April 27th               |   Parallel Scheduling  ***Project proposal due*** [slides](pdf/lecture9.pdf)|
-| May 3rd (**Wed**, joint with CSE548) |   ASICs, FPGA Acceleration               |
-| May 5th (**Fri**, joint with CSE548) |   Guest Lecture(FPGA on data centers)     |
 | May 3rd (**Wed, 9:30-11:00am, room: CSE305**, joint with CSE548) |   ASICs, FPGA Acceleration |
 | May 5th (**Fri, 9:30-11:00am, room: CSE691 Gates Commons**, joint with CSE548) |   FPGA on datacenters  |
-| May 9th                  |  Domain specific languages and Intermediate representation ***assignment 2 due***     |
-| May 11th                 |   TBD  |
-| May 16th                 |   Model Serving Systems                                     |
+| May 9th                  | Distributed Training and Communication Primitives ***assignment 2 due*** |
+| May 11th                 |  TBD|
+| May 16th                 |   Model Serving Systems   |
 | May 18th                 |   Guest lecture, Sharan Chetlur (cuDNN),  ***room: CSE 305***  |
-| May 23th                 |  TBD|
-| May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2), ***room: CSE 305***   |
+| May 23th                 |   Domain specific languages and Intermediate representation |
+| May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2), ***room: CSE 305***  |
 | May 30th                 |   Advanced topics                                           |
 | June 1st                 |   TBD                                                       |
 | June 7th                 |   Final Project Presentation                                |
