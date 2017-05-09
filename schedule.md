@@ -35,5 +35,4 @@ happen on Wed/Friday instead (see the schedule for details).
 | May 23th                 |   Domain specific languages and Intermediate representation |
 | May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2), ***room: CSE 305***  |
 | May 30th                 |   Advanced topics                                           |
-| June 1st                 |   TBD                                                       |
-| June 7th                 |   Final Project Presentation                                |
+| June 1st                 |   Project Presentation Talk |
