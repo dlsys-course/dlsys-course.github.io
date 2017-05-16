@@ -30,7 +30,7 @@ happen on Wed/Friday instead (see the schedule for details).
 | May 5th (joint with CSE548) |   Guest lecture by Andrew Putnam, FPGA on datacenters [slide](pdf/catapult_guest_lecture.pdf) |
 | May 9th                  | Distributed Training and Communication Primitives ***assignment 2 due*** [slide](pdf/lecture12.pdf)|
 | May 11th                 |  Case Study of Existing Deep Learning Systems |
-| May 16th                 |   Model Serving Systems   |
+| May 16th                 |   Model Serving Systems [slide](pdf/lecture14.pdf) |
 | May 18th                 |   Guest lecture, Sharan Chetlur (cuDNN),  ***room: CSE 305***  |
 | May 23th                 |   Domain specific languages and Intermediate representation |
 | May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2), ***room: CSE 305***  |
