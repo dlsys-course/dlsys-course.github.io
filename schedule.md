@@ -31,7 +31,7 @@ happen on Wed/Friday instead (see the schedule for details).
 | May 9th                  | Distributed Training and Communication Primitives ***assignment 2 due*** [slide](pdf/lecture12.pdf)|
 | May 11th                 |  TBD|
 | May 16th                 |   Model Serving Systems   |
-| May 18th                 |   Guest lecture, Sharan Chetlur (cuDNN),  ***room: CSE 305***  |
+| May 18th                 |   Guest lecture, Sharan Chetlur (cuDNN), [slides](pdf/sharan_guest_lecture.pdf) |
 | May 23th                 |   Domain specific languages and Intermediate representation |
 | May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2), ***room: CSE 305***  |
 | May 30th                 |   Advanced topics                                           |
