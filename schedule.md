@@ -32,7 +32,7 @@ happen on Wed/Friday instead (see the schedule for details).
 | May 11th                 |  Case Study of Existing Deep Learning Systems |
 | May 16th                 |   Model Serving Systems [slide](pdf/lecture14.pdf) |
 | May 18th                 |   Guest lecture, Sharan Chetlur (cuDNN), [slides](pdf/sharan_guest_lecture.pdf) |
-| May 23th                 |   Domain specific languages and Intermediate representation |
-| May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2), ***room: CSE 305***  |
+| May 23th                 |   Domain specific languages and Intermediate representation  [slides](pdf/lecture16.pdf) |
+| May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2), [slides](pdf/yangqing_guest_lecture.pdf)  |
 | May 30th                 |   Cancelled |
 | June 1st                 |   Project Presentation Talk |
