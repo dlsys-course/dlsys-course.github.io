@@ -34,5 +34,5 @@ happen on Wed/Friday instead (see the schedule for details).
 | May 18th                 |   Guest lecture, Sharan Chetlur (cuDNN), [slides](pdf/sharan_guest_lecture.pdf) |
 | May 23th                 |   Domain specific languages and Intermediate representation |
 | May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2), ***room: CSE 305***  |
-| May 30th                 |   Advanced topics                                           |
+| May 30th                 |   Cancelled |
 | June 1st                 |   Project Presentation Talk |
