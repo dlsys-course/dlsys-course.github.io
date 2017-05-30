@@ -25,4 +25,4 @@ Propose your project idea, or join an existing project team if that project inte
 | Project pitch (3 minutes per team) | April 20th |
 | Project proposal due (2 pages) [dropbox](https://catalyst.uw.edu/collectit/assignment/arvindk/40126/159876) | April 27th |
 | Final presentation | June 1st |
-| Project report | June 7th |
+| Project report (6 pages) [dropbox](https://catalyst.uw.edu/collectit/assignment/arvindk/40126/159880) | June 7th |
