@@ -18,11 +18,21 @@ Here are a list of interesting project ideas. You can also come up with your own
 ## Group Signup
 Propose your project idea, or join an existing project team if that project interests you in this [spreadsheet](https://docs.google.com/spreadsheets/d/1GgAhObAIcSJmsMU32X5q0D1oOrRVJDaBuZ1UJNDIXt0/edit?usp=sharing).
 
+## Final Presentation (30 pt)
+- Final presetation will be held at **CSE 403** from 1:30pm to 3:30pm on June 6th.
+- Every group will have 8 minutes to present, followed by 2 min for questions.
+- The presentation order is randomly generated and can be found in the [spreadsheet](https://docs.google.com/spreadsheets/d/1KhrC_owMlbEjvYjnOivxw6YZDoQMUqRp30lafQMMzVU/edit?usp=sharing).
+
+## Project Report (30 pt)
+- Project report is due at 11:00pm on June 7th.
+- The report should be 6 pages long (including references). You should present
+your ideas, system designs, implementation details, and experiences in the report.
+
 ## Important Dates
 
 |  Event               |    Date    |
 |----------------------|------------|
 | Project pitch (3 minutes per team) | April 20th |
 | Project proposal due (2 pages) [dropbox](https://catalyst.uw.edu/collectit/assignment/arvindk/40126/159876) | April 27th |
-| Final presentation | June 1st |
+| Final presentation (8 min present + 2 min question) | June 6th |
 | Project report (6 pages) [dropbox](https://catalyst.uw.edu/collectit/assignment/arvindk/40126/159880) | June 7th |
