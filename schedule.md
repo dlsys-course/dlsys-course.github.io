@@ -34,6 +34,6 @@ happen on Wed/Friday instead (see the schedule for details).
 | May 18th                 |   Guest lecture, Sharan Chetlur (cuDNN), [slides](pdf/sharan_guest_lecture.pdf) |
 | May 23th                 |   Domain specific languages and Intermediate representation  [slides](pdf/lecture16.pdf) |
 | May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2), [slides](pdf/yangqing_guest_lecture.pdf)  |
-| May 30th                 |   Cancelled                 |
-| June 1st                 |   No class                  |
+| May 30th                 |   Hack Day                 |
+| June 1st                 |   Hack Day                  |
 | June 6th (@**CSE 403**)  |   Project Presentations     |
