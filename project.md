@@ -25,9 +25,9 @@ Propose your project idea, or join an existing project team if that project inte
 
 ## Project Report (30 pt)
 - Project report is due at 11:00pm on June 7th.
-- The report should be 6 pages long (including references). You should present
-your ideas, system designs, implementation details, and experiences in the report.
-
+- The report should be 6 pages long (including references), NIPS style, see 
+[template](https://nips.cc/Conferences/2017/PaperInformation/StyleFiles)
+- You should present your ideas, system designs, implementation details, and experiences in the report.
 ## Important Dates
 
 |  Event               |    Date    |
