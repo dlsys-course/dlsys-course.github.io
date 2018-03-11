@@ -10,30 +10,30 @@ description: ""
 The schedule is tentative and can subject to change.
 We will have guest lectures and may accomodate the schedule accordingly.
 
-The normal course hour is Thuesday/Thursday. We will have two joint course session
+The normal course hour is Tuesday/Thursday from 11:30am to 12:50pm. <!-- We will have two joint course session
 with CSE548 (Computer architecture) on ASICs and FPGA. These two courses will
-happen on Wed/Friday instead (see the schedule for details).
+happen on Wed/Friday instead (see the schedule for details). -->
 
-| Date                     |                                                       |
-|--------------------------| ------------------------------------------------------|
-| Mar 28th                 |   Introduction to Deep Learning [slides for lecture 1](pdf/lecture1.pdf) [slides for RNN](pdf/lecture1-p2-rnn.pdf) |
-| Mar 30th                 |   Lab: How to build image classifier [lab1 material](https://github.com/dlsys-course/lab1) |
-| April 4th                |   Components Overview of  Deep Learning System  [slides for lecture3](pdf/lecture3.pdf) |
-| April 6th                |   Backprop and Automatic Differentiation, ***assignment 1 out*** [slides for lecture4](pdf/lecture4.pdf) |
-| April 11th               |   Guest Lecture by Alex Smola [slide](pdf/alex_smola_guest_lecture.pdf) |
-| April 13th               |   Guest Lecture by Soumith Chintala (Torch/PyTorch), [slide](pdf/soumith_guest_lecture.pdf)|
-| April 18th               |   Memory Optimization and Planning [slides for lecture7](pdf/lecture7.pdf) |
-| April 20th               |   Project Proposal Pitch, ***assignment 1 due***  |
-| April 25th               |   GPU Acceleration, ***assignment 2 out*** [slides](pdf/lecture8.pdf) |
-| April 27th               |   Parallel Scheduling  ***Project proposal due*** [slides](pdf/lecture9.pdf)|
-| May 3rd (joint with CSE548) |   ASICs, FPGA Acceleration [lecture slide](pdf/joint-lecture-specialization.pdf) [Introduction to FPGA](pdf/joint-lecture-FPGA.pdf)|
-| May 5th (joint with CSE548) |   Guest lecture by Andrew Putnam, FPGA on datacenters [slide](pdf/catapult_guest_lecture.pdf) |
-| May 9th                  | Distributed Training and Communication Primitives ***assignment 2 due*** [slide](pdf/lecture12.pdf)|
-| May 11th                 |  Case Study of Existing Deep Learning Systems |
-| May 16th                 |   Model Serving Systems [slide](pdf/lecture14.pdf) |
-| May 18th                 |   Guest lecture, Sharan Chetlur (cuDNN), [slides](pdf/sharan_guest_lecture.pdf) |
-| May 23th                 |   Domain specific languages and Intermediate representation  [slides](pdf/lecture16.pdf) |
-| May 25th                 |   Guest lecture by Yangqing Jia (Caffe/Caffe2), [slides](pdf/yangqing_guest_lecture.pdf)  |
-| May 30th                 |   Hack Day                 |
-| June 1st                 |   Hack Day                  |
-| June 6th (@**CSE 403**)  |   Project Presentations     |
+| Date         |                                                       |
+|--------------| ------------------------------------------------------|
+| Mar 27th     |   Introduction to Deep Learning                       |
+| Mar 29th     |   Lab: How to build image classifier                  |
+| April 3th    |   Components Overview of Deep Learning System         |
+| April 5th    |   Backprop and Automatic Differentiation              |
+| April 10th   |   Memory Optimization and Planning                    |
+| April 12th   |   Parallel Scheduling                                 |
+| April 17th   |   GPU Acceleration                                    |
+| April 19th   |   ASICs, FPGA Acceleration                            |
+| April 24th   |   Domain specific languages and Intermediate representation |
+| April 26th   |   TVM: End to End Optimization stack for AI Frameworks |
+| May 1st      |   TBD                                                 |
+| May 3rd      |   TBD                                                 |
+| May 8th      |   Lab: How to program on TVM                          |
+| May 10th     |   Distributed Training and Communication Primitives   |
+| May 15th     |   Case Study of Existing Deep Learning Systems        |
+| May 17th     |   Model Serving Systems                               | 
+| May 22nd     |   TBD                                                 |
+| May 24th     |   TBD                                                 |
+| May 29th     |   TBD                                                 |
+| May 31st     |   TBD                                                 |
+| June 5th     |   Project Presentations                               |

@@ -1,7 +1,7 @@
 ---
 layout: index
-title: "CSE 599G1"
-description: "DLSys Course UW"
+title: "CSE 599W"
+description: "UW Course: Systems for ML"
 ---
 {% include JB/setup %}
 
@@ -26,9 +26,8 @@ and will include case studies of existing systems, such as Tensorflow, Caffe, Mx
 - [Qiao Zhang](http://homes.cs.washington.edu/~qiao/)
 
 ## Logistics
-- Time: Tuesday/Thursday 1:00pm to 2:20pm.
-  - There are two joint lecture with CSE548 happens on Wed/Friday, checkout the  [schedule](schedule)  for details
-- Place: Normal lectures and labs happens at MGH 254
+- Time: Tuesday/Thursday 11:30am to 12:50pm.
+- Place: TBD
   - We will be using CSE 305 for some of the guest lectures, checkout the [schedule](schedule) for details
 - ***Slack***: Join [https://uw-cse.slack.com](https://uw-cse.slack.com) dlsys channel for course discussions and announcements
 
