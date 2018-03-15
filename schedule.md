@@ -10,9 +10,6 @@ description: ""
 The schedule is tentative and can subject to change.
 We will have guest lectures and may accomodate the schedule accordingly.
 
-The normal course hour is Tuesday/Thursday from 11:30am to 12:50pm. <!-- We will have two joint course session
-with CSE548 (Computer architecture) on ASICs and FPGA. These two courses will
-happen on Wed/Friday instead (see the schedule for details). -->
 
 | Date         |                                                       |
 |--------------| ------------------------------------------------------|
@@ -31,7 +28,7 @@ happen on Wed/Friday instead (see the schedule for details). -->
 | May 8th      |   Lab: How to program on TVM                          |
 | May 10th     |   Distributed Training and Communication Primitives   |
 | May 15th     |   Case Study of Existing Deep Learning Systems        |
-| May 17th     |   Model Serving Systems                               | 
+| May 17th     |   Model Serving Systems                               |
 | May 22nd     |   TBD                                                 |
 | May 24th     |   TBD                                                 |
 | May 29th     |   TBD                                                 |
