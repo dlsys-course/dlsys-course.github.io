@@ -11,8 +11,7 @@ Over the past few years, deep learning has become an important technique to succ
 
 This course is designed to fill this gap.  We will be covering various aspects of deep learning systems, including: basics of deep learning, programming models for expressing machine learning models, automatic differentiation, memory optimization, scheduling, distributed learning, hardware acceleration, domain specific languages, and model serving. Many of these topics intersect with existing research directions in databases, systems and networking, architecture and programming languages. The goal is to offer a comprehensive picture on how deep learning systems works, discuss and execute on possible research opportunities, and build open-source software that will have broad appeal.
 
-We will have two classes per week. Each week will have one lecture.
-Another class will either be lab/discuss session or guest lectures.
+We will have two classes per week. The class will either be lecture or  lab/discuss session.
 Each lecture will study a specific aspect of deep learning systems.
 The lab/discussion session will contain tutorials to implement that specific aspect
 and will include case studies of existing systems, such as Tensorflow, Caffe, Mxnet, PyTorch, and others.
@@ -26,7 +25,6 @@ and will include case studies of existing systems, such as Tensorflow, Caffe, Mx
 - [Qiao Zhang](http://homes.cs.washington.edu/~qiao/)
 
 ## Logistics
-- Time: Tuesday/Thursday 11:30am to 12:50pm.
 - Place: TBD
   - We will be using CSE 305 for some of the guest lectures, checkout the [schedule](schedule) for details
 - ***Slack***: Join [https://uw-cse.slack.com](https://uw-cse.slack.com) dlsys channel for course discussions and announcements

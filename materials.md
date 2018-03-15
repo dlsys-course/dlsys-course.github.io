@@ -15,3 +15,4 @@ More materials will be posted throughout the course.
 ## Materials on Deep Learning
 - [Deep Learning Book](http://www.deeplearningbook.org/) is a comprehensive material for the field.
 - [CS231n](http://cs231n.stanford.edu/) is a great course to get started on DL for vision.
+- [Deep Learning - The Straight Dope](http://gluon.mxnet.io/) contains useful tutorials and code.
