@@ -17,15 +17,15 @@ We will have guest lectures and may accomodate the schedule accordingly.
 | Mar 29th     |   Lab: How to build image classifier                  |
 | April 3th    |   Components Overview of Deep Learning System         |
 | April 5th    |   Backprop and Automatic Differentiation              |
-| April 10th   |   Memory Optimization and Planning                    |
-| April 12th   |   Parallel Scheduling                                 |
-| April 17th   |   GPU Acceleration                                    |
-| April 19th   |   ASICs, FPGA Acceleration                            |
-| April 24th   |   Domain specific languages and Intermediate representation |
-| April 26th   |   TVM: End to End Optimization stack for AI Frameworks |
+| April 10th   |   Hardware backends: GPU                              |
+| April 12th   |   ASICs, FPGA Acceleration                            |
+| April 17th   |   Domain specific language, TVM                       |
+| April 19th   |   Programming your Accelerators with DSL              |
+| April 24th   |   Computation graph: memory optimization              |
+| April 26th   |   Parallel Scheduling                                 |
 | May 1st      |   TBD                                                 |
 | May 3rd      |   TBD                                                 |
-| May 8th      |   Lab: How to program on TVM                          |
+| May 8th      |   TBD                                                 |
 | May 10th     |   Distributed Training and Communication Primitives   |
 | May 15th     |   Case Study of Existing Deep Learning Systems        |
 | May 17th     |   Model Serving Systems                               |
