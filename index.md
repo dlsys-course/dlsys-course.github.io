@@ -26,7 +26,7 @@ and will include case studies of existing systems, such as Tensorflow, Caffe, Mx
 
 ## Logistics
 - Time: Tue/Th 11:30am - 12:50pm
-- Place: TBD
+- Place: Mueller Hall 153
   - We will be using CSE 305 for some of the guest lectures, checkout the [schedule](schedule) for details
 - ***Slack***: Join [https://uw-cse.slack.com](https://uw-cse.slack.com) dlsys channel for course discussions and announcements
 
