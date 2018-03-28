@@ -13,7 +13,7 @@ We will have guest lectures and may accomodate the schedule accordingly.
 
 | Date         |                                                       |
 |--------------| ------------------------------------------------------|
-| Mar 27th     |   Introduction to Deep Learning                       |
+| Mar 27th     |   [Introduction to Deep Learning](pdf/lecture1.pdf)   |
 | Mar 29th     |   Lab: How to build image classifier                  |
 | April 3th    |   Components Overview of Deep Learning System         |
 | April 5th    |   Backprop and Automatic Differentiation              |
