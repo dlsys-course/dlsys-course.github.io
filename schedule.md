@@ -15,7 +15,7 @@ We will have guest lectures and may accomodate the schedule accordingly.
 |--------------| ---------------------------------------------------------------|
 | Mar 27th     |   [Introduction to Deep Learning](pdf/lecture1.pdf)   		|
 | Mar 29th     |   [Lab: How to build image classifier](pdf/lab1_mnist.ipynb)	|
-| April 3th    |   Components Overview of Deep Learning System         		|
+| April 3th    |   [Components Overview of Deep Learning System](pdf/lecture3.pdf)         		|
 | April 5th    |   Backprop and Automatic Differentiation              		|
 | April 10th   |   Hardware backends: GPU                              		|
 | April 12th   |   ASICs, FPGA Acceleration                            		|
