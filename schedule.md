@@ -18,7 +18,7 @@ We will have guest lectures and may accomodate the schedule accordingly.
 | April 3th    |   [Components Overview of Deep Learning System](pdf/lecture3.pdf)         		|
 | April 5th    |   [Backprop and Automatic Differentiation](pdf/lecture4.pdf)              		|
 | April 10th   |   Hardware backends: GPU                              		|
-| April 12th   |   ASICs, FPGA Acceleration                            		|
+| April 12th   |   Optimize Backend Programs, Domain specific langages |
 | April 17th   |   Domain specific language, TVM                       		|
 | April 19th   |   Programming your Accelerators with DSL              		|
 | April 24th   |   Computation graph: memory optimization              		|
