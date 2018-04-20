@@ -20,7 +20,7 @@ We will have guest lectures and may accomodate the schedule accordingly.
 | April 10th   |   [Hardware backends: GPU](pdf/lecture5.pdf)                              		|
 | April 12th   |   [Optimize for hardware backends](pdf/lecture6.pdf)    |
 | April 17th   |   [Domain specific language, TVM stack](pdf/lecture7.pdf) |
-| April 19th   |   Programming your Accelerators with DSL              		|
+| April 19th   |   [Hardware Specialization in Deep Learning](pdf/lecture8.pdf)             		|
 | April 24th   |   Project proposal pitch              		|
 | April 26th   |   Parallel Scheduling                                 		|
 | May 1st      |   TBD                                                 		|
