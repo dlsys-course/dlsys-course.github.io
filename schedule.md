@@ -22,14 +22,14 @@ We will have guest lectures and may accomodate the schedule accordingly.
 | April 17th   |   [Domain specific language, TVM stack](pdf/lecture7.pdf) |
 | April 19th   |   [Hardware Specialization in Deep Learning](pdf/lecture8.pdf)  |
 | April 24th   |   [Memory Optimization](pdf/lecture9.pdf)            		|
-| April 26th   |   Parallel Scheduling                                 		|
-| May 1st      |                                                    		|
-| May 3rd      |   OSDI No class                                      		|
-| May 8th      |   TBD                                                 		|
-| May 10th     |   Distributed Training and Communication Primitives   		|
-| May 15th     |   Case Study of Existing Deep Learning Systems        		|
-| May 18th     |   Joint Guest Lecture with hardware 599: Eric Chung        |
+| April 26th   |   [Parallel Scheduling](pdf/lecture10.pdf)               |
+| May 1st      |   No class, hacking on project proposal                  |
+| May 3rd      |   No class                                      	      	|
+| May 8th      |   Distributed Training and Communication Primitives   		|
+| May 10th     |   Model Serving                                          |
+| May 15th     |                                                          |
+| May 18th     |   Joint Guest Lecture with hardware 599: Eric Chung      |
 | May 22nd     |   TBD                                                 		|
 | May 24th     |   TBD                                                 		|
 | May 29th     |   TBD                                                 		|
-| May 31st     |   Project presentation                                    	|
+| May 31st     |   Project presentation                                 	|
