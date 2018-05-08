@@ -30,6 +30,6 @@ We will have guest lectures and may accomodate the schedule accordingly.
 | May 15th     |                                                          |
 | May 18th     |   Joint Guest Lecture with hardware 599: Eric Chung      |
 | May 22nd     |   TBD                                                 		|
-| May 24th     |   TBD                                                 		|
+| May 24th     |   Guest Lecture:Matthai Philipose|
 | May 29th     |   TBD                                                 		|
 | May 31st     |   Project presentation                                 	|
