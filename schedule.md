@@ -25,7 +25,7 @@ We will have guest lectures and may accomodate the schedule accordingly.
 | April 26th   |   [Parallel Scheduling](pdf/lecture10.pdf)               |
 | May 1st      |   No class, hacking on project proposal                  |
 | May 3rd      |   No class                                      	      	|
-| May 8th      |   Distributed Training and Communication Primitives   		|
+| May 8th      |   [Distributed Training and Communication Primitives](pdf/lecture11.pdf) |
 | May 10th     |   Model Serving                                          |
 | May 15th     |                                                          |
 | May 18th     |   Joint Guest Lecture with hardware 599: Eric Chung      |
