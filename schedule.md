@@ -26,7 +26,7 @@ We will have guest lectures and may accomodate the schedule accordingly.
 | May 1st      |   No class, hacking on project proposal                  |
 | May 3rd      |   No class                                      	      	|
 | May 8th      |   [Distributed Training and Communication Primitives](pdf/lecture11.pdf) |
-| May 10th     |   Model Serving                                          |
+| May 10th     |   [Model Serving](pdf/lecture12.pdf)                                     |
 | May 15th     |   Low bit optimization, guest talk by Meghan Cowan |
 | May 18th     |   Joint Guest Lecture with hardware 599: Eric Chung ***Location: CSE305 at 9:30am*** |
 | May 22nd     |   Guest Lecture:Amar Phanishayee ***Location: Mueller Hall 153*** |
