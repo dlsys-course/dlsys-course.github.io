@@ -31,5 +31,5 @@ We will have guest lectures and may accomodate the schedule accordingly.
 | May 18th     |   Joint Guest Lecture with hardware 599: Eric Chung ***Location: CSE305 at 9:30am*** |
 | May 22nd     |   Guest Lecture:Amar Phanishayee ***Location: Mueller Hall 153*** |
 | May 24th     |   Guest Lecture:Matthai Philipose ***Location: CSE305*** |
-| May 29th     |   TBD                                                 		|
+| May 29th     |   Guest Lecture:Vinod Grover ***Location: Mueller Hall 153*** |
 | May 31st     |   Project presentation                                 	|
